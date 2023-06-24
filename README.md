@@ -13,15 +13,14 @@ The goal of this project is to analyze and predict Apple's revenue based on hist
 ## Getting Started
 To reproduce the results or further explore the project, follow these steps:
 
-Clone this repository to your local machine using the following command: git clone https://github.com/mehmetalpayy/IEEE-Conferance-Machine-Learning.git
+Clone this repository to your local machine using the following command: git clone https://github.com/KadirGokdeniz/ML-Project.git
 Ensure that you have Python installed on your machine.
 Run the Python scripts:
-- For 78accuracy.py, execute the following command:
-Copy code
+- For 78accuracy.py,
+execute the following command:
 - python 78accuracy.py
 This script will utilize logistic regression to predict Apple's revenue based on the applerevenue.csv dataset, achieving an accuracy of approximately 78%. The resulting confusion matrix will be displayed.
 For 99accuracy.py, execute the following command:
-Copy code
 - python 99accuracy.py
 This script incorporates hyperparameter tuning and data shuffling to achieve a higher accuracy of around 99%. The resulting confusion matrix will be displayed.
 Review the generated confusion matrices to assess the accuracy and performance of the logistic regression models.
