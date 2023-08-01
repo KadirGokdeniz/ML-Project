@@ -41,7 +41,7 @@ Review the generated confusion matrices to assess the accuracy and performance o
 # Citation
 If you use this project or refer to it in your research, please cite the following paper:
 
-Kadir Gokdeniz . "Apple Revenue Prediction Using Logistic Regression." In Proceedings of the IEEE Conference on Machine Learning, 2022.
+Kadir Gokdeniz && Mehmetalpayy . "Apple Revenue Prediction Using Logistic Regression." In Proceedings of the IEEE Conference on Machine Learning, 2022.
 
 # Contact
 For any inquiries or questions, please feel free to contact me at kadirqokdeniz@hotmail.com.
